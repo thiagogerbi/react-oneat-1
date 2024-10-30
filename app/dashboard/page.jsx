@@ -2,6 +2,7 @@ import React from 'react';
 import Insights from '../components/Insights';
 import RecentOrders from '../components/RecentOrders';
 import SalesAnalytics from '../components/SalesAnalytics';
+import style from "../globals.css"
 
 export default function Dashboard() {
   return (

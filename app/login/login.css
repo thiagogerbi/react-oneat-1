@@ -42,7 +42,7 @@
   }
   
   #page > * {
-    width: 50%;
+    width: 35%;
   }
   
   img {
@@ -76,6 +76,12 @@
   
   .headline {
     max-width: 35rem;
+  }
+
+  .div-login{
+    border-radius: 20px;
+    background-color: #fff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
   }
   
   h1 {

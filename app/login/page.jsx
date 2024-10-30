@@ -23,7 +23,7 @@ function Login() {
 
   return (
     <div id="page" className="flex">
-      <div>
+      <div className="div-login">
         <header>
           {/* Usando a imagem do logo */}
             <Image src={logo} alt="Logo" width={150} height={50} /> {/* Defina a largura e altura */}
